@@ -1,0 +1,12 @@
+[submodule "OwnerAPI"]
+	path = OwnerAPI
+	url = git@github.com:all-minds/OwnerAPI.git
+[submodule "PropertyAPI"]
+	path = PropertyAPI
+	url = git@github.com:all-minds/PropertyAPI.git
+[submodule "GatewayAPI"]
+	path = GatewayAPI
+	url = git@github.com:all-minds/GatewayAPI.git
+[submodule "sft-eng-front-end"]
+	path = sft-eng-front-end
+	url = git@github.com:all-minds/sft-eng-front-end.git
